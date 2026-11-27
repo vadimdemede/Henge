@@ -97,3 +97,13 @@ That produces `~/Desktop/Henge.ipa`, and `package_ipa.sh --trollstore` writes `H
 GPL-2.0-or-later. Henge compiles in usbmuxd (GPLv2 or GPLv3) and code from Husk (GPL-2.0-or-later), so the shipped binary is a combined GPL work. It cannot go on the App Store. See [docs/licensing.md](docs/licensing.md).
 
 macOS and the Mac's boot ROM are Apple's and aren't part of Henge. Henge downloads both from Apple when you install.
+
+
+## 📎 Limitation
+Retrieval quality depends on document source.
+Content may contain factual errors, verify important information manually.
+## 🤝 Contribute
+Submit documents, prompts and bugfixes via PR.
+## 📄 License
+![License-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[MIT](https://opensource.org/licenses/MIT)
